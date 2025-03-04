@@ -29,5 +29,5 @@ The dataset consists of **MRI scans labeled into four categories**.
 ## 💻 Installation
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Brain-Tumor-Classification.git
-cd Brain-Tumor-Classification
+git clone https://github.com/majdzarai/brain_tumor_detection.git
+cd brain_tumor_detection
